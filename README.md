@@ -93,3 +93,7 @@ curl -X POST http://127.0.0.1:5000/predict \
 ## Author
 
 - Vikas Sojitra
+
+## Video Demonstration
+
+- **Google Drive Link:**https://drive.google.com/file/d/1YiD59SIZhdCevNZbfSTOrVkeCZRssmQM/view?usp=sharing
