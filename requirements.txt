@@ -1,0 +1,19 @@
+# Data loading and preparation
+pandas
+numpy
+
+# EDA/visualizations
+matplotlib
+seaborn
+
+# Train/test split, preprocessing, Decision Tree, metrics
+scikit-learn
+
+# Notebook
+jupyter
+
+# Saved model
+joblib
+
+# REST API
+flask
