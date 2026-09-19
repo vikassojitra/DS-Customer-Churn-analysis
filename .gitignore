@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.ipynb_checkpoints
+/.vs
+/notebook/.ipynb_checkpoints
+/__pycache__
